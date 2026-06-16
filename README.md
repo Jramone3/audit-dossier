@@ -19,3 +19,13 @@ I document my research on Autonomous Agents and System Resilience.
 
 ---
 *Maintained by Jramone3. This documentation focuses on the intersection of AI security, blockchain, and robust infrastructure.*
+
+---
+
+### 🔍 Interested in auditing this framework?
+
+The integrity of this project is fully verifiable. To get a comprehensive view of my work as a developer and auditor, I recommend analyzing my complete profile rather than just this repository:
+
+**[👉 Verify full history on LARP CHECK](https://larpcheck.live/?user=Jramone3)**
+
+*Analyzing my full profile provides a transparent view of 6+ months of activity, 13 active repositories, and over 118 production commits.*
